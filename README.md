@@ -1,4 +1,4 @@
-Project Live Link - https://habit-tracker-beta-woad.vercel.app/
+Project Live Link - https://habit-tracker-beta-woad.vercel.app
 
 BACKEND (.ENV)
 
