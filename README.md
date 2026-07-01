@@ -3,7 +3,7 @@
 A full-stack web application to help users build and maintain healthy habits with tracking, progress analytics, and goal management.
 
 ## 🚀 Live Demo
-[Habit Tracker](https://habit-tracker-beta-woad.vercel.app)
+Project Live Link - https://habit-tracker-beta-woad.vercel.app
 
 ## 🛠️ Tech Stack
 - **Frontend:** React + Vite
